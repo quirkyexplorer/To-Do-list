@@ -1,0 +1,8 @@
+.done {
+    text-decoration: line-through;
+}
+
+.body {
+    background: linear-gradient(rgb(13, 110, 253), rgb(226, 152, 24));
+}
+
